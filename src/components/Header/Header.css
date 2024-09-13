@@ -1,0 +1,18 @@
+.logoWeb {
+
+
+    height: 60px;
+    width: 60px;
+}
+
+.nav{
+    z-index: 1000;
+}
+
+
+
+@media screen and (max-width: 500px) {
+    .inPhone {
+        display: none;
+    }
+}
